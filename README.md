@@ -1,2 +1,2 @@
-# KGS-side-project
-The KGS Side Project is made by me and Lunella, who will take over Kai's plugin and do whatever it takes to update the plugin
+# KGS-testbed
+This is a testbed to be used to practice plugin-based things before i can create my own plugin. I have to credit kai but idk how.
